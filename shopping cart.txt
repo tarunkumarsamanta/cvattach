@@ -1,0 +1,26 @@
+roject#1
+
+Project Title	 	 : SHOPPING CARTS
+
+Environment	 	 : ASP.NET, AJAX, HTML, SQL � SERVER 2005, C# and CSS.
+
+Position	 	 : Software Developer.
+
+Team size	 	 : 12.
+
+Project duration	 	 : 8 Month.
+
+ 
+
+Project Description :
+The Online Shopping Cart is a web based application intended for online retailers. The main objective of this application is to make it interactive and its ease of use. It would make Searching, viewing and selection of a product easier. It allows the web space to clients to post their ads. It contains a sophisticated search engine for users to search for products specific to their needs. The search engine provides an easy and convenient way to search for products where a user can Search for a product interactively and the search engine would refine the products available based on the user�s input. The user can then view the complete specification of each product. They can also view the product reviews and also write their own reviews. The main emphasis lies in providing a user friendly search engine for effectively showing the desired results. 
+ 
+
+Roles & Responsibilities:
+
+·	  Design and development of the forms using ASP.NET and AJAX. 
+·	  Analyzing and understanding the requirements and specifications. 
+·	  Coding and design. 
+·	  Worked as a Team Member.
+
+ 
